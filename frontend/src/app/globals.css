@@ -47,3 +47,9 @@ a {
     color-scheme: dark;
   }
 }
+
+main
+{
+  padding: 20px;
+  flex: auto;
+}

@@ -1,0 +1,32 @@
+footer
+{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #111111;
+}
+
+.info-footer
+{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.direitos
+{
+    display: flex;
+}
+
+.info-footer p
+{
+    width: 100px;
+    font-size: 15px;
+}
+
+.info-footer h1 
+{
+    font-size: 70px;
+    border-right: 3px solid white;
+}
